@@ -17,6 +17,8 @@ matplotlib-inline==0.2.2
 nest-asyncio2==1.7.4
 networkx==3.7
 numpy==2.5.4
+numpy-typing-compat==20260602.2.5
+optype==0.19.0
 packaging==26.3
 parso==0.8.7
 pexpect==4.9.0
@@ -31,6 +33,7 @@ pyparsing==3.3.3
 python-dateutil==4.0.0
 pyzmq==27.3.0
 scipy==1.18.1
+scipy-stubs==1.18.1.1
 stack-data==0.6.3
 tornado==6.6.1
 traitlets==5.16.1
